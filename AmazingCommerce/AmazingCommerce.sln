@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{324D72B9-1B81-4D18-AD8B-14565510C372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazing.Ecommerce.Catalog", "Amazing.Ecommerce.Catalog\Amazing.Ecommerce.Catalog.csproj", "{9C644CC6-E92E-4681-A613-5803C9460A9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9C644CC6-E92E-4681-A613-5803C9460A9B} = {324D72B9-1B81-4D18-AD8B-14565510C372}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C644CC6-E92E-4681-A613-5803C9460A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C644CC6-E92E-4681-A613-5803C9460A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C644CC6-E92E-4681-A613-5803C9460A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C644CC6-E92E-4681-A613-5803C9460A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
